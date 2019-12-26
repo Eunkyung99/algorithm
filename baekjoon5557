@@ -31,4 +31,4 @@ int main(){
 	cout<<exp[n-1][num[n]]<<endl;
 	return 0;
 }
-//수행시간:O(n)
+//수행시간:O(n) 

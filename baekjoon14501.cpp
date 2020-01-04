@@ -1,30 +1,28 @@
 #include <iostream>
 using namespace std;
 int main(){
-	int n, max=0;
+	int n;
+	int T[1000]={0,}; //배열의 범위 크게
+	int P[1000]={0,};
+	int dp[1000]={0,};
 	cin>>n;
-	int T[n+1];
-	int P[n+1];
-	int dp[n+1]={0,};
 	for(int i=1; i<=n; i++){
 		cin>>T[i];
 		cin>>P[i];
 	}
-	for(int i=2; i<=n; i++){
-		for(int j=1; j<=i-1; j++){
-			if(i-j>=T[j]){
-				if(dp[i]<dp[j]+P[i]){
-					dp[i]=dp[j]+P[i];
-				}
+	for(int i=n; i>0; i--){
+		if(i+T[i]>n+1){ //범위 초과
+			dp[i]=dp[i+1]; //i+1까지의 최댓값
+		}
+		else{
+			if(dp[i+1]<dp[i+T[i]]+P[i]){ //i일에 일을 하지 않는 경우와 일을 했을 경우
+				dp[i]=dp[i+T[i]]+P[i]; //더 많이 버는 값을 dp[i]에 저장
+			}
+			else{
+				dp[i]=dp[i+1]; //i일에 일을 안 하는 경우
 			}
 		}
 	}
-	for(int i=1; i<=n; i++){
-		if(i+T[i]<=n+1){
-			if(max<dp[i])
-				max=dp[i];
-		}
-	}
-	cout<<max;
+	cout<<dp[1]<<endl; //dp[1]이 최댓값
 	return 0;
 }

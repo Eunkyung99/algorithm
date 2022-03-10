@@ -18,6 +18,8 @@
 ### Simulation [보기](/src/Baekjoon/Simulation)
 
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14503 : 로봇 청소기](src/Baekjoon/Simulation/14503.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14891 : 톱니바퀴](src/Baekjoon/Simulation/14891.cpp)**
 
 ### Math [보기](/src/Baekjoon/Math)
 
@@ -29,6 +31,18 @@
 
 >![lev](https://img.shields.io/badge/Lv.1-green) **[ 완주하지 못한 선수](src/Programmers/Hash/hash1.cpp)**
 
-### Stack/Queue [보기](src/Programmers/Hash)
+### Stack/Queue [보기](src/Programmers/StacknQueue)
 
 >![lev](https://img.shields.io/badge/Lv.2-yellow) **[기능개발](src/Programmers/StacknQueue/StacknQueue1.cpp)**
+
+### Heap [보기](src/Programmers/Heap)
+
+>![lev](https://img.shields.io/badge/Lv.2-yellow) **[더 맵게](src/Programmers/Heap/heap1.cpp)**
+
+### Sort [보기](src/Programmers/Sort)
+
+>![lev](https://img.shields.io/badge/Lv.1-green) **[K번째수](src/Programmers/Sort/sort1.cpp)**
+
+### BruteForce [보기](src/Programmers/BruteForce)
+
+>![lev](https://img.shields.io/badge/Lv.1-green) **[모의고사](src/Programmers/BruteForce/BruteForce1.cpp)**

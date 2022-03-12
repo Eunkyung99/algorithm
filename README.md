@@ -46,3 +46,15 @@
 ### BruteForce [보기](src/Programmers/BruteForce)
 
 >![lev](https://img.shields.io/badge/Lv.1-green) **[모의고사](src/Programmers/BruteForce/BruteForce1.cpp)**
+
+### Greedy [보기](src/Programmers/Greedy)
+
+>![lev](https://img.shields.io/badge/Lv.1-green) **[체육복](src/Programmers/Greedy/greedy1.cpp)**
+
+### DFS/BFS [보기](src/Programmers/DFSnBFS)
+
+>![lev](https://img.shields.io/badge/Lv.2-yellow) **[타겟넘버](src/Programmers/DFSnBFS/DfsnBfs1.cpp)**
+
+### Graph [보기](src/Programmers/Graph)
+
+>![lev](https://img.shields.io/badge/Lv.3-orange) **[가장 먼 노드](src/Programmers/Graph/graph1.cpp)**

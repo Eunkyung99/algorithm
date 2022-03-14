@@ -20,6 +20,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14503 : 로봇 청소기](src/Baekjoon/Simulation/14503.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14891 : 톱니바퀴](src/Baekjoon/Simulation/14891.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 14890 : 경사로](src/Baekjoon/Simulation/14890.cpp)**
 
 ### Math [보기](/src/Baekjoon/Math)
 
@@ -29,7 +31,9 @@
 
 ### Hash [보기](src/Programmers/Hash)
 
->![lev](https://img.shields.io/badge/Lv.1-green) **[ 완주하지 못한 선수](src/Programmers/Hash/hash1.cpp)**
+>![lev](https://img.shields.io/badge/Lv.1-green) **[완주하지 못한 선수](src/Programmers/Hash/hash1.cpp)**
+>
+>![lev](https://img.shields.io/badge/Lv.2-yellow) **[전화번호 목록](src/Programmers/Hash/hash2.cpp)**
 
 ### Stack/Queue [보기](src/Programmers/StacknQueue)
 

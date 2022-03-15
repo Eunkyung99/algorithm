@@ -23,6 +23,10 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 14890 : 경사로](src/Baekjoon/Simulation/14890.cpp)**
 
+### Bruteforce [보기](/src/Baekjoon/BruteForce)
+
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 15683 : 감시](src/Baekjoon/BruteForce/15683.cpp)**
+
 ### Math [보기](/src/Baekjoon/Math)
 
 >![tier](https://img.shields.io/badge/Tier-Bronze2-brown) **[Baekjoon 13458 : 시험 감독](src/Baekjoon/Math/13458.cpp)**
@@ -48,6 +52,8 @@
 ### Sort [보기](src/Programmers/Sort)
 
 >![lev](https://img.shields.io/badge/Lv.1-green) **[K번째수](src/Programmers/Sort/sort1.cpp)**
+>
+>![lev](https://img.shields.io/badge/Lv.2-yellow) **[가장 큰 수](src/Programmers/Sort/sort2.cpp)**
 
 ### BruteForce [보기](src/Programmers/BruteForce)
 

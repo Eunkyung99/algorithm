@@ -44,6 +44,8 @@
 >![lev](https://img.shields.io/badge/Lv.1-green) **[완주하지 못한 선수](src/Programmers/Hash/hash1.cpp)**
 >
 >![lev](https://img.shields.io/badge/Lv.2-yellow) **[전화번호 목록](src/Programmers/Hash/hash2.cpp)**
+>
+>![lev](https://img.shields.io/badge/Lv.2-yellow) **[위장](src/Programmers/Hash/hash3.cpp)**
 
 ### Stack/Queue [보기](src/Programmers/StacknQueue)
 

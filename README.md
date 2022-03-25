@@ -14,6 +14,8 @@
 ### DFS&BFS [보기](/src/Baekjoon/DFSnBFS)
 
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14502 : 연구소](src/Baekjoon/DFSnBFS/14502.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 16234 : 인구 이동](src/Baekjoon/DFSnBFS/16234.cpp)**
 
 ### Simulation [보기](/src/Baekjoon/Simulation)
 
@@ -24,6 +26,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 14890 : 경사로](src/Baekjoon/Simulation/14890.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 15685 : 드래곤 커브](src/Baekjoon/Simulation/15685.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 16235 : 나무 재테크](src/Baekjoon/Simulation/16235.cpp)**
 
 ### Bruteforce [보기](/src/Baekjoon/BruteForce)
 

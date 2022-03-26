@@ -16,6 +16,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14502 : 연구소](src/Baekjoon/DFSnBFS/14502.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 16234 : 인구 이동](src/Baekjoon/DFSnBFS/16234.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 16236 : 아기 상어](src/Baekjoon/DFSnBFS/16236.cpp)**
 
 ### Simulation [보기](/src/Baekjoon/Simulation)
 
@@ -50,6 +52,8 @@
 >![lev](https://img.shields.io/badge/Lv.2-yellow) **[전화번호 목록](src/Programmers/Hash/hash2.cpp)**
 >
 >![lev](https://img.shields.io/badge/Lv.2-yellow) **[위장](src/Programmers/Hash/hash3.cpp)**
+>
+>![lev](https://img.shields.io/badge/Lv.3-orange) **[베스트 앨범](src/Programmers/Hash/hash4.cpp)**
 
 ### Stack/Queue [보기](src/Programmers/StacknQueue)
 

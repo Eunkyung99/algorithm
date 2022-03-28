@@ -62,6 +62,8 @@
 >![lev](https://img.shields.io/badge/Lv.2-yellow) **[기능개발](src/Programmers/StacknQueue/StacknQueue1.cpp)**
 >
 >![lev](https://img.shields.io/badge/Lv.2-yellow) **[프린터](src/Programmers/StacknQueue/StacknQueue2.cpp)**
+>
+>![lev](https://img.shields.io/badge/Lv.2-yellow) **[다리를 지나는 트럭](src/Programmers/StacknQueue/StacknQueue3.cpp)**
 
 ### Heap [보기](src/Programmers/Heap)
 

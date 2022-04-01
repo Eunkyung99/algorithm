@@ -32,6 +32,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 16235 : 나무 재테크](src/Baekjoon/Simulation/16235.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 17144 : 미세먼지 안녕!](src/Baekjoon/Simulation/17144.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 17143 : 낚시왕](src/Baekjoon/Simulation/17143.cpp)**
 
 ### Bruteforce [보기](/src/Baekjoon/BruteForce)
 

@@ -34,6 +34,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 17144 : 미세먼지 안녕!](src/Baekjoon/Simulation/17144.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 17143 : 낚시왕](src/Baekjoon/Simulation/17143.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 17140: 이차원 배열과 연산](src/Baekjoon/Simulation/17143.cpp)**
 
 ### Bruteforce [보기](/src/Baekjoon/BruteForce)
 
@@ -42,6 +44,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 15684 : 사다리조작](src/Baekjoon/BruteForce/15684.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 15686 : 치킨 배달](src/Baekjoon/BruteForce/15686.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 17142 : 연구소3](src/Baekjoon/BruteForce/17142.cpp)**
 
 ### Math [보기](/src/Baekjoon/Math)
 

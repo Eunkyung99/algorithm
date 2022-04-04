@@ -36,6 +36,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 17143 : 낚시왕](src/Baekjoon/Simulation/17143.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 17140: 이차원 배열과 연산](src/Baekjoon/Simulation/17143.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 17779: 게리맨더링 2](src/Baekjoon/Simulation/17779.cpp)**
 
 ### Bruteforce [보기](/src/Baekjoon/BruteForce)
 

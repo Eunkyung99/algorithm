@@ -40,6 +40,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 17779: 게리맨더링 2](src/Baekjoon/Simulation/17779.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 17837: 새로운 게임 2](src/Baekjoon/Simulation/17837.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 17822: 원판 돌리기](src/Baekjoon/Simulation/17822.cpp)**
 
 ### Bruteforce [보기](/src/Baekjoon/BruteForce)
 

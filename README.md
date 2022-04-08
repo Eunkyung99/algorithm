@@ -46,6 +46,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 17825: 주사위 윷놀이](src/Baekjoon/Simulation/17825.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 20055: 컨베이어 벨트 위의 로봇](src/Baekjoon/Simulation/20055.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 20061: 모노미노도미노 2](src/Baekjoon/Simulation/20061.cpp)**
 
 ### Bruteforce [보기](/src/Baekjoon/BruteForce)
 

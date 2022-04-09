@@ -18,6 +18,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 16234 : 인구 이동](src/Baekjoon/DFSnBFS/16234.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 16236 : 아기 상어](src/Baekjoon/DFSnBFS/16236.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 19236 : 청소년 상어](src/Baekjoon/DFSnBFS/19236.cpp)**
 
 ### Simulation [보기](/src/Baekjoon/Simulation)
 

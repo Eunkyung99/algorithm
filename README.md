@@ -17,9 +17,9 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 16234 : 인구 이동](src/Baekjoon/DFSnBFS/16234.cpp)**
 >
->![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 16236 : 아기 상어](src/Baekjoon/DFSnBFS/16236.cpp)**
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 16236 : 아기 상어](src/Baekjoon/DFSnBFS/16236.cpp)** 
 >
->![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 19236 : 청소년 상어](src/Baekjoon/DFSnBFS/19236.cpp)** ![tier](https://img.shields.io/badge/hard-red)
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 19236 : 청소년 상어](src/Baekjoon/DFSnBFS/19236.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
 
 ### Simulation [보기](/src/Baekjoon/Simulation)
 
@@ -43,9 +43,9 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 17837: 새로운 게임 2](src/Baekjoon/Simulation/17837.cpp)**
 >
->![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 17822: 원판 돌리기](src/Baekjoon/Simulation/17822.cpp)** ![tier](https://img.shields.io/badge/hard-red)
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 17822: 원판 돌리기](src/Baekjoon/Simulation/17822.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
 >
->![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 17825: 주사위 윷놀이](src/Baekjoon/Simulation/17825.cpp)** ![tier](https://img.shields.io/badge/hard-red)
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 17825: 주사위 윷놀이](src/Baekjoon/Simulation/17825.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 20055: 컨베이어 벨트 위의 로봇](src/Baekjoon/Simulation/20055.cpp)**
 >

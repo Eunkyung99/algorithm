@@ -20,6 +20,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 16236 : 아기 상어](src/Baekjoon/DFSnBFS/16236.cpp)** 
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 19236 : 청소년 상어](src/Baekjoon/DFSnBFS/19236.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold)**[Baekjoon 19238 : 스타트 택시](src/Baekjoon/DFSnBFS/19238.cpp)**![tier](https://img.shields.io/badge/hard★-red)
 
 ### Simulation [보기](/src/Baekjoon/Simulation)
 
@@ -52,6 +54,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 20061: 모노미노도미노 2](src/Baekjoon/Simulation/20061.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 19237: 어른 상어](src/Baekjoon/Simulation/19237.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 20056: 마법사 상어와 파이어볼](src/Baekjoon/Simulation/20056.cpp)**
 
 ### Bruteforce [보기](/src/Baekjoon/BruteForce)
 

@@ -22,6 +22,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 19236 : 청소년 상어](src/Baekjoon/DFSnBFS/19236.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold)**[Baekjoon 19238 : 스타트 택시](src/Baekjoon/DFSnBFS/19238.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold)**[Baekjoon 20058 : 마법사 상어와 파이어스톰](src/Baekjoon/DFSnBFS/20058.cpp)**
 
 ### Simulation [보기](/src/Baekjoon/Simulation)
 

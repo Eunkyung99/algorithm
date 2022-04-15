@@ -60,6 +60,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 20056: 마법사 상어와 파이어볼](src/Baekjoon/Simulation/20056.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 20057: 마법사 상어와 토네이도](src/Baekjoon/Simulation/20057.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 21610: 마법사 상어와 비바라기](src/Baekjoon/Simulation/21610.cpp)**
 
 ### Bruteforce [보기](/src/Baekjoon/BruteForce)
 

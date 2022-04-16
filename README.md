@@ -24,6 +24,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold)**[Baekjoon 19238 : 스타트 택시](src/Baekjoon/DFSnBFS/19238.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold)**[Baekjoon 20058 : 마법사 상어와 파이어스톰](src/Baekjoon/DFSnBFS/20058.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 21609 : 상어 중학교](src/Baekjoon/BruteForce/21609.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
 
 ### Simulation [보기](/src/Baekjoon/Simulation)
 
@@ -72,8 +74,6 @@
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 15686 : 치킨 배달](src/Baekjoon/BruteForce/15686.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 17142 : 연구소3](src/Baekjoon/BruteForce/17142.cpp)**
->
->![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 21609 : 상어 중학교](src/Baekjoon/BruteForce/21609.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
 
 ### Math [보기](/src/Baekjoon/Math)
 

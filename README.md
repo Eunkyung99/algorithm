@@ -25,7 +25,7 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold)**[Baekjoon 20058 : 마법사 상어와 파이어스톰](src/Baekjoon/DFSnBFS/20058.cpp)**
 >
->![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 21609 : 상어 중학교](src/Baekjoon/BruteForce/21609.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 21609 : 상어 중학교](src/Baekjoon/DFSnBFS/21609.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
 
 ### Simulation [보기](/src/Baekjoon/Simulation)
 

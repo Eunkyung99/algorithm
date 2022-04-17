@@ -64,6 +64,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 20057: 마법사 상어와 토네이도](src/Baekjoon/Simulation/20057.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 21610: 마법사 상어와 비바라기](src/Baekjoon/Simulation/21610.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold1-gold) **[Baekjoon 21611: 마법사 상어와 블리자드](src/Baekjoon/Simulation/21611.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
 
 ### Bruteforce [보기](/src/Baekjoon/BruteForce)
 

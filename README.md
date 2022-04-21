@@ -28,6 +28,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 21609 : 상어 중학교](src/Baekjoon/DFSnBFS/21609.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 23288 : 주사위 굴리기 2](src/Baekjoon/DFSnBFS/23288.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold1-gold) **[Baekjoon 23290 : 마법사 상어와 복제](src/Baekjoon/DFSnBFS/23290.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
 
 ### Simulation [보기](/src/Baekjoon/Simulation)
 

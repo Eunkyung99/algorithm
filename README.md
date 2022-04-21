@@ -10,6 +10,7 @@
 
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 15486 : 퇴사 2](src/Baekjoon/DP/15486.cpp)**
 >
+>![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 14501 : 퇴사](src/Baekjoon/DP/14501.cpp)**
 
 ### DFS&BFS [보기](/src/Baekjoon/DFSnBFS)
 

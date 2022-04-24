@@ -75,6 +75,8 @@
 >![tier](https://img.shields.io/badge/Tier-Platinum5-2ecf9e) **[Baekjoon 23289: 온풍기 안녕!](src/Baekjoon/Simulation/23289.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 21608: 상어 초등학교](src/Baekjoon/Simulation/21608.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Platinum5-2ecf9e) **[Baekjoon 5373: 큐빙](src/Baekjoon/Simulation/5373.cpp)** 
 
 ### Bruteforce [보기](/src/Baekjoon/BruteForce)
 

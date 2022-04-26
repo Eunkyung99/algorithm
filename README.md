@@ -31,6 +31,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 23288 : 주사위 굴리기 2](src/Baekjoon/DFSnBFS/23288.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold1-gold) **[Baekjoon 23290 : 마법사 상어와 복제](src/Baekjoon/DFSnBFS/23290.cpp)** ![tier](https://img.shields.io/badge/hard★-red)
+>
+>![tier](https://img.shields.io/badge/Tier-Gold1-gold) **[Baekjoon 13460 : 구슬 탈출](src/Baekjoon/DFSnBFS/13460.cpp)**
 
 ### Simulation [보기](/src/Baekjoon/Simulation)
 
@@ -91,6 +93,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 17142 : 연구소3](src/Baekjoon/BruteForce/17142.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 12100 : 2048(Easy)](src/Baekjoon/BruteForce/12100.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 14888 : 연산자 끼워넣기](src/Baekjoon/BruteForce/14888.cpp)**
 
 ### Math [보기](/src/Baekjoon/Math)
 

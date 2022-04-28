@@ -95,6 +95,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 12100 : 2048(Easy)](src/Baekjoon/BruteForce/12100.cpp)**
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 14888 : 연산자 끼워넣기](src/Baekjoon/BruteForce/14888.cpp)**
+>
+>![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 14889 : 스타트와 링크](src/Baekjoon/BruteForce/14889.cpp)**
 
 ### Math [보기](/src/Baekjoon/Math)
 
